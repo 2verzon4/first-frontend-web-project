@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    margin: 5%;
+    font-family: sans-serif;
+
+}
+
+.bordo-verde {
+    border-style: solid;
+    border-color: green;
+    border-width: 1px;
+    margin: 5%;
+}
+
+.bordo-giallo {
+    border-style: solid;
+    border-color: yellow;
+
+}
+
+.distanziatore {
+    margin: 5% !important;
+}
